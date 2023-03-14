@@ -1,4 +1,4 @@
-package com.bawi;
+package com.bawi.base;
 
 public class Util {
 
