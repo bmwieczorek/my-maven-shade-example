@@ -2,7 +2,7 @@ package com.bawi.base;
 
 public class Util {
 
-    public static void print(String name, int age) {
-        System.out.println("Hello world! " + name + " age " + age);
+    public static void print(String name, int version) {
+        System.out.println("Hello " + name + " version " + version);
     }
 }
